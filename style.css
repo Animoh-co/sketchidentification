@@ -1,0 +1,22 @@
+body{
+    background-color: antiquewhite;
+
+}
+
+#score{
+    font-size: 50px;
+    margin-left: 15px;
+
+}
+
+#timer{
+    font-size: 50px;
+    float:right;
+    margin-right: 15px;
+}
+
+
+#sketchtobedrawn{
+    color :brown;
+    
+}
